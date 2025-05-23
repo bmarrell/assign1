@@ -5,3 +5,5 @@ First comment
 
 This is a change on newbranch
 testbranch change
+
+forcing conflict part 2
